@@ -191,6 +191,6 @@ Este projeto está sob a licença **MIT**. Consulte o arquivo [LICENSE](./LICENS
 Estudante de TIC @ UFSC · Graduação 2026
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karolini-ronzani-pedrozo-48124b268)
 
 </div>
