@@ -14,6 +14,10 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Lê o arquivo .env
 var envPath = Path.Combine(Directory.GetCurrentDirectory(), "..", "..", ".env");
+if (!File.Exists(envPath))
+    envPath = Path.Combine(Directory.GetCurrentDirectory(), "..", "..", "..", ".env");
+if (!File.Exists(envPath))
+    envPath = Path.Combine(Directory.GetCurrentDirectory(), ".env");
 if (File.Exists(envPath))
 {
     foreach (var line in File.ReadAllLines(envPath))
